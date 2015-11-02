@@ -12,7 +12,7 @@ Curated list of great presentations I've watched
 ## Misc
 - [ ] [Making Badass Developers - Kathy Sierra](https://www.youtube.com/watch?v=FKTxC9pl-WM)
 - [ ] [What the heck is the event loop anyway? - Philip Roberts](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-- 
+
 ## Testing
 - [ ] [TDD, where did it all go wrong - Ian Cooper](https://vimeo.com/68375232)
 - [ ] [Integration Tests Are a Scam - J.B. Rainsberger](https://vimeo.com/80533536)
